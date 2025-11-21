@@ -11,7 +11,8 @@ int main()
 	 // cout<<a<<endl;//  8
 	  int x= a++;
 	 cout<<x<<endl;
-	 int i=032;
+	 int i=032;// octal number system base 8 hot hai --> digit  0 to 7 
+	 int y=038;// syntax error
 	 cout<<i<<endl;
 	return 0;
 }
